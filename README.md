@@ -1,6 +1,5 @@
 
-
-##This script is simple modification to gensim extarctive text summarization library, which handled only english text
+This script is simple modification to gensim extarctive text summarization library, which handled only english text
 
 
 ### Dependencies :
